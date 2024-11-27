@@ -1,0 +1,35 @@
+{
+  "code": 0,
+  "message": "Success",
+  "result": {
+    "elements": [
+      {
+        "id": 1,
+        "phoneBookType": {
+          "id": 1,
+          "name": "CELULAR"
+        },
+        "phone": "5543582877",
+        "contactName": "Calle Estado De Mexico",
+        "description": "22",
+        "active": true,
+        "createdBy": "system",
+        "createdDate": "2024-10-24T17:55:14.573585"
+      },
+      {
+        "id": 3,
+        "phoneBookType": {
+          "id": 1,
+          "name": "CELULAR"
+        },
+        "phone": "7181272327",
+        "contactName": "Acambay ",
+        "description": "8",
+        "active": true,
+        "createdBy": "system",
+        "createdDate": "2024-10-24T17:55:23.572744"
+      }
+    ],
+    "total": 2
+  }
+}
